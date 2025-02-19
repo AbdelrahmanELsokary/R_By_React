@@ -1,7 +1,7 @@
 function Header() {
   return (
     <>
-      <header className="bg-[#212529] text-white py-5">
+      <header className="bg-[#212529] text-white py-1">
         <div className="container w-4/5 px-6 m-auto flex justify-between items-center">
           <div className="logo">
             <a href="/" className="text-5xl">

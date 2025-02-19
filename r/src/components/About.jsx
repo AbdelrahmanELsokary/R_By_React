@@ -3,7 +3,7 @@ function About() {
   return (
     <>
       <section id="about">
-        <div class="container flex justify-center gap-20 items-center py-10">
+        <div class="container flex flex-wrap justify-center gap-20 items-center px-7 py-10">
           <div class="titel">
             <h2 className=" text-5xl font-bold font-sans">
               About <br /> Me
