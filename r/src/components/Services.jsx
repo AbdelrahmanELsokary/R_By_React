@@ -3,7 +3,7 @@ function Services() {
     <>
       <section className="services bg-[#dee2e6]" id="services">
         <div className="container py-7">
-          <h2 className=" text-center font-bold text-5xl py-3">Services</h2>
+          <h2 className=" text-center font-bold text-3xl md:text-4xl lg:text-5xl py-3">Services</h2>
           <p className=" text-center font-medium font-sans">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique <br /> elit nec malesuada tincidunt. Pellentesque lobortis.
           </p>

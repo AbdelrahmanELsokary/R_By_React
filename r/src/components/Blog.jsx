@@ -3,7 +3,7 @@ function Blog() {
     <>
       <section className="blog" id="blog">
         <div className="container ">
-          <h2 className=" text-center text-5xl font-bold my-7">Blog</h2>
+          <h2 className=" text-center text-3xl md:text-4xl lg:text-5xl font-bold my-7">Blog</h2>
           <div className="blog1 flex justify-center flex-wrap ">
             <div className="learning flex items-center rounded-xl bg-[#dee2e6] p-9 m-5">
               <div className="image">

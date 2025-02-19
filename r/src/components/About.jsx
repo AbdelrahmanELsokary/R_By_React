@@ -5,7 +5,7 @@ function About() {
       <section id="about">
         <div class="container flex flex-wrap justify-center gap-20 items-center px-7 py-10">
           <div class="titel">
-            <h2 className=" text-5xl font-bold font-sans">
+            <h2 className=" text-3xl md:text-4xl lg:text-5xl font-bold font-sans ">
               About <br /> Me
             </h2>
           </div>
