@@ -11,7 +11,8 @@ function App() {
       <Hero />
       <About />
       <Services />
-      <Blog/>
+      <Blog />
+      
     </>
   );
 }
