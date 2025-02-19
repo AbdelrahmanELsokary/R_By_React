@@ -5,7 +5,7 @@ function Hero() {
       <section className=" bg-[#dee2e6]">
         <div className="container flex items-center justify-center gap-28 px-14">
           <div className="info">
-            <h1 className=" text-2xl md:text-4xl lg:text-5xl font-sans font-bold leading-tight ">
+            <h1 className=" text-2xl md:text-4xl lg:text-5xl font-bold leading-tight ">
               Hello
               <br />
               I’m Ridho
