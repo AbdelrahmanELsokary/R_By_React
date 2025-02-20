@@ -1,3 +1,5 @@
+import { Link } from "react-router";
+
 function Header() {
   return (
     <>
@@ -11,7 +13,7 @@ function Header() {
           <nav>
             <ul className="hidden md:flex gap-7">
               <li>
-                <a href="/">Home</a>
+                <Link to="/">Home</Link>
               </li>
               <li>
                 <a href="/">About</a>
@@ -20,7 +22,7 @@ function Header() {
                 <a href="/">Services</a>
               </li>
               <li>
-                <a href="/">Blog</a>
+                <a href="#blog">Blog</a>
               </li>
               <li>
                 <a href="/">Contact</a>
