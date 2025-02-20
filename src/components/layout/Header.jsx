@@ -8,9 +8,9 @@ function Header() {
       <header className="bg-[#212529] sticky top-0 text-white py-1">
         <div className="container w-4/5 px-6 m-auto flex justify-between items-center">
           <div className="logo">
-            <a href="/" className="text-5xl">
+            <Link to="/" className="text-5xl">
               R
-            </a>
+            </Link>
           </div>
           <nav>
             <ul className={`${isOpenMenu ? 'absolute right-0 top-10 bg-[#212529] p-6 w-36' : 'hidden'} md:flex gap-7`}>
