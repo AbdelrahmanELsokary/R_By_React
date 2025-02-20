@@ -16,16 +16,16 @@ function Header() {
                 <Link to="/">Home</Link>
               </li>
               <li>
-                <a href="/">About</a>
+                <a href="#about">About</a>
               </li>
               <li>
-                <a href="/">Services</a>
+                <a href="#services">Services</a>
               </li>
               <li>
                 <a href="#blog">Blog</a>
               </li>
               <li>
-                <a href="/">Contact</a>
+                <a href="#footer">Contact</a>
               </li>
             </ul>
             <img src="/icons/menu.webp" alt="toggel icon for nav" className="md:hidden" />

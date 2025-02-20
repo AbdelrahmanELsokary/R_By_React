@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <>
-      <footer className=" bg-[#dee2e6] py-5 ">
+      <footer className=" bg-[#dee2e6] py-5" id="footer">
         <h2 className=" text-center font-bold text-3xl md:text-4xl lg:text-5xl">Contact</h2>
         <div className="container flex flex-wrap items-center justify-center gap-20">
           <div className="contact w-3/4">

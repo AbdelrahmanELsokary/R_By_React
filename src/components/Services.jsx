@@ -1,7 +1,7 @@
 function Services() {
   return (
     <>
-      <section className="services bg-[#dee2e6]">
+      <section className="services bg-[#dee2e6]" id="services">
         <div className="container py-7">
           <h2 className=" text-center font-bold text-3xl md:text-4xl lg:text-5xl py-3">Services</h2>
           <p className=" text-center font-medium font-sans">
